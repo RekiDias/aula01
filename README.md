@@ -1,2 +1,5 @@
 # aula01
-Primeira aula segundo semestre. &lt;controle de versão>
+First class from second semester. **&lt;controle de versão>**
+
+* Test readme
+* HUHU
